@@ -1,0 +1,13 @@
+Clase03
+
+* CLASE AUTO{
+marca
+modelo	características
+color	atributos o propiedades
+velocidad (variables)
+
+acelerar	acciones
+frenar		métodos funciones y
+chocar		procedimientos
+
+}
